@@ -1,3 +1,8 @@
+Timer.
+Days, hours, minutes, seconds.
+It can be used as a screensaver on the device screen.
+Beautiful screensaver and reminder.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
